@@ -20,3 +20,39 @@ These notebooks analyze survey data to generate metrics and visualizations for f
 Install the required libraries using the following command:
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
+
+ Analysis Notebooks
+
+Overview
+
+This repository contains two Jupyter notebooks:
+
+ISM.ipynb - Implements Interpretive Structural Modeling (ISM).
+
+DEMATEL.ipynb - Implements Decision-Making Trial and Evaluation Laboratory (DEMATEL).
+
+These notebooks analyze survey data to generate metrics and visualizations for factor analysis. Both methods are useful for understanding and modeling complex systems and relationships among factors.
+
+Prerequisites
+
+Python (3.7 or higher)
+
+Required Python libraries:
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+jupyter
+
+Install the required libraries using the following command:
+
+pip install pandas numpy matplotlib seaborn jupyter
+
+Workflow
+
+
