@@ -21,9 +21,7 @@ Install the required libraries using the following command:
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
 
- Analysis Notebooks
-
-Overview
+## Prerequisites
 
 This repository contains two Jupyter notebooks:
 
